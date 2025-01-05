@@ -1,0 +1,9 @@
+@misc{REPO023,
+    author = "Zhou, Pei and Pujara, Jay and Ren, Xiang and Chen, Xinyun and Cheng, Heng-Tze and Le, Quoc V. and Chi, Ed H. and Zhou, Denny and Mishra, Swaroop and Zheng, Huaixiu Steven",
+    archiveprefix = "arXiv",
+    eprint = "2402.03620",
+    primaryclass = "cs.AI",
+    title = "{Self-Discover: Large Language Models Self-Compose Reasoning Structures}",
+    url = "https://arxiv.org/abs/2402.03620",
+    year = "2024"
+}
